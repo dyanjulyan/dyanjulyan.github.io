@@ -49,3 +49,7 @@ hr {
   border-color: #ff5b00;
   cursor: pointer;
 }
+
+#mc_embed_signup form {
+  text-align: center;
+}
